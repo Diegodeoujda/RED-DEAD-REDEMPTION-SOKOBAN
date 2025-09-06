@@ -23,4 +23,4 @@ Press the designated button to reveal the **shortest path** to solve the current
    ```bash
    pip install pygame
 
-![Gameplay Screenshot](screenshots/gameplay.png)
+![Gameplay Screenshot](screenshots/game.png)
