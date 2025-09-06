@@ -12,7 +12,7 @@ A Sokoban puzzle game themed around *Red Dead Redemption*, built with **Pygame**
 > *(For QWERTY users: this corresponds to WASD.)*
 
 ## 🧭 Pathfinding Feature
-Press the designated button to reveal the **shortest path** to solve the current level — calculated using a pathfinding algorithm (e.g., A* or BFS).
+Press the designated button to reveal the **shortest path** to solve the current level — calculated using a pathfinding algorithm.
 
 ## 🛠️ Built With
 - [Pygame](https://www.pygame.org/) — For game rendering and input handling
