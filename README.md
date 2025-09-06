@@ -22,5 +22,9 @@ Press the designated button to reveal the **shortest path** to solve the current
 1. Ensure you have Python and Pygame installed:
    ```bash
    pip install pygame
+   
+![Gameplay Screenshot](screenshots/startmenu.png)
+*Start Menu*
 
 ![Gameplay Screenshot](screenshots/game.png)
+*In game*
