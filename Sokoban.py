@@ -317,7 +317,6 @@ class Graphe:
             for x in range(len(self.niveau.structure[y])):
                 if self.niveau.structure[y][x] != SOKOBAN.WALL:
                     self.noeuds[(x, y)] = []
-                    print(x, y)
                     for dx, dy in [(-1, 0), (1, 0), (0, -1), (0, 1)]:
                         nx, ny = x + dx, y + dy
                         if 0 <= ny < len(self.niveau.structure) and 0 <= nx < len(self.niveau.structure[ny]):
